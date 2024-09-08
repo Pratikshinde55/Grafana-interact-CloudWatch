@@ -21,7 +21,8 @@ Search on google grafana download for linux and download Standalone Linux Binari
 
 #### Note:
 
-     Grafana work on port no 3000
-     Grafana work on "Http" protocol.
+Grafana work on port no 3000.
+
+Grafana work on "Http" protocol.
 
      
