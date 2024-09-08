@@ -63,6 +63,26 @@ AWS cloud have their own "CloudWatch" for collecting metrics.
 
 Now, we connect grafana to CloudWatch Data Source".
 
+Step 1: Add new data source as Cloud fwatch.
+
+On Grafana WebUI go to "Connections"  Here we see "Add new Data Source" -->> Search and select "Cloud Watch".
+
+![image](https://github.com/user-attachments/assets/2bca37d2-b7db-48d6-a107-4f1e4b5472e6)
+
+
+Step 2: Authentication Create IAM user 
+
+Now we need Authentication to access aws Cloud Watch, so select access key & secreate key.
+
+For this i create IAM user on aws console. 
+
+![image](https://github.com/user-attachments/assets/826e2ebd-c840-4558-abb8-04007896f2fa)
+
+Create Key for "Third-party service"
+
+![image](https://github.com/user-attachments/assets/13343943-4204-44d4-9e1f-a5996ddfb7fc)
+
+
 
 
 
