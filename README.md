@@ -86,7 +86,16 @@ Now we need Authentication to access aws Cloud Watch, so select access key & sec
 
 ![image](https://github.com/user-attachments/assets/640e05d4-8b4e-464c-bb38-8ec88e1213d2)
 
-Step 3:
+
+Step 3: Now we Create query
+
+Go to Explore and add select out data Source for which we run query.
+
+![image](https://github.com/user-attachments/assets/222e17a1-5be7-4ccc-b8b7-ffc12a558347)
+
+- I run a query for test using EC2 instanceID
+
+![image](https://github.com/user-attachments/assets/e150d29c-3af7-4c22-980e-c48afac0bf2f)
 
 
      
