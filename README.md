@@ -41,6 +41,18 @@ Grafana work on port no 3000.
 Grafana work on "Http" protocol.
 
 
+##### Connect grafana webUI;
+
+Now connect to grafana by webUI --->>  Public Ip:port no (http://43.204.97.131:3000)
+
+- Note:
+
+Edit Inbound rule of grafana instance: (Enable port 3000 to my IP)
+
+![image](https://github.com/user-attachments/assets/e817b3ca-15ba-42f0-8537-76821b176cbe)
+
+Grafana WEbUI:
+![image](https://github.com/user-attachments/assets/540075e2-e041-41f2-bdf3-feb1df5fd828)
 
 
      
