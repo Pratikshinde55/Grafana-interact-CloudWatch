@@ -74,16 +74,19 @@ Step 2: Authentication Create IAM user
 
 Now we need Authentication to access aws Cloud Watch, so select access key & secreate key.
 
-For this i create IAM user on aws console. 
+- For this i create IAM user on aws console. 
 
 ![image](https://github.com/user-attachments/assets/826e2ebd-c840-4558-abb8-04007896f2fa)
 
-Create Key for "Third-party service"
+- Create Key for "Third-party service"
 
 ![image](https://github.com/user-attachments/assets/13343943-4204-44d4-9e1f-a5996ddfb7fc)
 
+- Now Fill/paste key
 
+![image](https://github.com/user-attachments/assets/640e05d4-8b4e-464c-bb38-8ec88e1213d2)
 
+Step 3:
 
 
      
