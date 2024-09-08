@@ -98,4 +98,17 @@ Go to Explore and add select out data Source for which we run query.
 ![image](https://github.com/user-attachments/assets/e150d29c-3af7-4c22-980e-c48afac0bf2f)
 
 
-     
+### I create Dash board for monitoring EKS service:
+
+I create autoscaling for Nodes and pods and i increase load on application and monitor from Grafana. 
+
+(This is link for EKS Autoscaling setUp - https://github.com/Pratikshinde55/EKS-Autoscaler-Pod-Node.git)
+
+- Before load increase
+  
+![Screenshot 2024-09-08 162322](https://github.com/user-attachments/assets/9bbd7835-e62e-48bd-ba46-8e20a4a23f4e)
+
+- After Load increase
+
+ ![Screenshot 2024-09-08 163723](https://github.com/user-attachments/assets/faeedb47-66b5-4534-b063-60f7c39fb0c9)
+ 
