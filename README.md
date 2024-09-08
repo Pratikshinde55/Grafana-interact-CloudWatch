@@ -55,4 +55,15 @@ Grafana WEbUI:
 ![image](https://github.com/user-attachments/assets/540075e2-e041-41f2-bdf3-feb1df5fd828)
 
 
+## Grafana interact with aws:
+
+Grafana nither collect data nor store data, Grafana feedig or taking data from Data Source.
+
+AWS cloud have their own "CloudWatch" for collecting metrics.
+
+Now, we connect grafana to CloudWatch Data Source".
+
+
+
+
      
