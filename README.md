@@ -19,10 +19,20 @@ I use aws instance for download grafana (AMI- amazon linux 2)
 Search on google grafana download for linux and download Standalone Linux Binaries 64 Bit tar file. 
 (Link:-  https://grafana.com/grafana/download )
 
-#### Note:
+Command for download grafana:
+
+     wget https://dl.grafana.com/enterprise/release/grafana-enterprise-11.2.0.linux-amd64.tar.gz
+
+Command for Extract Grafana:
+
+     tar -zxvf grafana-enterprise-11.2.0.linux-amd64.tar.gz
+     
+- Note:
 
 Grafana work on port no 3000.
 
 Grafana work on "Http" protocol.
+
+
 
      
