@@ -26,12 +26,20 @@ Command for download grafana:
 Command for Extract Grafana:
 
      tar -zxvf grafana-enterprise-11.2.0.linux-amd64.tar.gz
+
+Now start Grafana server:
+
+     ./grafana-server &
+
+![image](https://github.com/user-attachments/assets/1beff168-7444-468c-9d99-fa8963d54a48)
+
      
 - Note:
 
 Grafana work on port no 3000.
 
 Grafana work on "Http" protocol.
+
 
 
 
