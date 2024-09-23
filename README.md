@@ -1,7 +1,6 @@
 ![Grafana](https://github.com/user-attachments/assets/5428240d-2908-475f-8673-66f9bce8a4eb)
 
-# Grafana-interact-CloudWatch
-Grafana interact with aws CloudWatch data source
+# Grafana interact with aws CloudWatch data source
 
 Grafana is open-source software tool that helps user visualize, query, and understand data.
 
