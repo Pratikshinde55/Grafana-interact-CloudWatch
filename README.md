@@ -104,7 +104,7 @@ Go to Explore and add select out data Source for which we run query.
 
 I create autoscaling for Nodes and pods and i increase load on application and monitor from Grafana. 
 
-(This is link for EKS Autoscaling setUp - https://github.com/Pratikshinde55/EKS-Autoscaler-Pod-Node.git)
+This is link for EKS Autoscaling setUp - [AWS-EKS-AutoScale](https://github.com/Pratikshinde55/EKS-Autoscaler-Pod-Node.git)
 
 - Before load increase
   
