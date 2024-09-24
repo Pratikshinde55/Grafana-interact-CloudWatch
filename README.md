@@ -18,7 +18,8 @@ Grafana is powerfull in Metrics perspective.
 I use aws instance for download grafana (AMI- amazon linux 2)
 
 Search on google grafana download for linux and download Standalone Linux Binaries 64 Bit tar file. 
-(Link:-  https://grafana.com/grafana/download )
+
+Link- [Grafana-Download](https://grafana.com/grafana/download )
 
 Command for download grafana:
 
