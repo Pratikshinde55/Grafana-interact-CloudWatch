@@ -13,7 +13,7 @@ Grafana give entire visibilty stack.
 Grafana is powerfull in Metrics perspective.
 
 
-### How to download grafana:
+## How to download grafana:
 
 I use aws instance for download grafana (AMI- amazon linux 2)
 
@@ -58,7 +58,7 @@ Grafana WEbUI:
 ![image](https://github.com/user-attachments/assets/540075e2-e041-41f2-bdf3-feb1df5fd828)
 
 
-## Grafana interact with aws:
+## Grafana interact with AWS Cloud Watch:
 
 Grafana neither collect data nor store data, Grafana feedig or taking data from Data Source.
 
@@ -66,14 +66,14 @@ AWS cloud have their own **"CloudWatch"** for collecting metrics.
 
 Now, we connect grafana to CloudWatch Data Source".
 
-Step 1: Add new data source as Cloud fwatch.
+#### Step 1:  [Add new data source as Cloud fwatch]
 
 On Grafana WebUI go to "Connections"  Here we see "Add new Data Source" -->> Search and select "Cloud Watch".
 
 ![image](https://github.com/user-attachments/assets/2bca37d2-b7db-48d6-a107-4f1e4b5472e6)
 
 
-Step 2: Authentication Create IAM user 
+#### Step 2: [Authentication Create IAM user] 
 
 Now we need Authentication to access aws Cloud Watch, so select access key & secreate key.
 
@@ -90,7 +90,7 @@ Now we need Authentication to access aws Cloud Watch, so select access key & sec
 ![image](https://github.com/user-attachments/assets/640e05d4-8b4e-464c-bb38-8ec88e1213d2)
 
 
-Step 3: Now we Create query
+#### Step 3: [Now we Create query]
 
 Go to Explore and add select out data Source for which we run query.
 
