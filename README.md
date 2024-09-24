@@ -43,7 +43,7 @@ Grafana work on port no **3000**.
 Grafana work on protocol = **HTTP**.
 
 
-#### Connect grafana webUI;
+- Connect grafana webUI:
 
 Now connect to grafana by webUI --->>  Public Ip:port no (http://43.204.97.131:3000)
 
