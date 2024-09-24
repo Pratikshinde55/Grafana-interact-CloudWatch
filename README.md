@@ -2,13 +2,13 @@
 
 # Grafana interact with aws CloudWatch data source
 
-Grafana is open-source software tool that helps user visualize, query, and understand data.
+**Grafana is open-source software tool that helps user visualize, query, and understand data.**
 
-Grafana capture data from all services and give "Single pane of glass" view.
+Grafana capture data from all services and give **"Single pane of glass"** view.
 
 Grafana give entire visibilty stack.
 
-Grafana create visuale on the to of "Metrics","logs","Traces".
+**Grafana create visuale on the to of "Metrics","logs","Traces".**
 
 Grafana is powerfull in Metrics perspective.
 
@@ -38,12 +38,12 @@ Now start Grafana server:
      
 - Note:
 
-Grafana work on port no 3000.
+Grafana work on port no **3000**.
 
-Grafana work on "Http" protocol.
+Grafana work on protocol = **HTTP**.
 
 
-##### Connect grafana webUI;
+#### Connect grafana webUI;
 
 Now connect to grafana by webUI --->>  Public Ip:port no (http://43.204.97.131:3000)
 
@@ -59,9 +59,9 @@ Grafana WEbUI:
 
 ## Grafana interact with aws:
 
-Grafana nither collect data nor store data, Grafana feedig or taking data from Data Source.
+Grafana neither collect data nor store data, Grafana feedig or taking data from Data Source.
 
-AWS cloud have their own "CloudWatch" for collecting metrics.
+AWS cloud have their own **"CloudWatch"** for collecting metrics.
 
 Now, we connect grafana to CloudWatch Data Source".
 
